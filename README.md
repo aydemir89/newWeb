@@ -50,7 +50,7 @@ This project is a streaming website developed using PHP, HTML, CSS, and JavaScri
 1. Clone this project:
 
    ```shell
-   git clone https://github.com/Username/project-name.git
+   git clone https://github.com/aydemir89/newWeb.git
    
 2. Run the project folder on your web server. For example, if you are using XAMPP, place the project in the "htdocs" folder.
 
