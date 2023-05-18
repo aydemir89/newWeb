@@ -1,32 +1,4 @@
-# Streaming Website Project
 
-This project is a streaming website developed using PHP, HTML, CSS, and JavaScript. Users can sign up on the site to preview content, watch trailers, and view content in full-screen mode. Additionally, the PayPal SDK is integrated to allow users to make payments.
-
-## Features
-
-- User login and logout: Users can sign in and sign out of the website. User sessions are managed using PHP session management.
-
-- Trailer watching: Users can watch trailers for the content. Trailers are displayed using HTML5 video elements on the site.
-
-- Content preview: Users can preview the content. The preview screen is designed using HTML and CSS to match the site's layout.
-
-- Full-screen content viewing: Users can watch content in full-screen mode. Full-screen mode is implemented using JavaScript.
-
-- PayPal integration: Users can make payments using the PayPal SDK. The PayPal SDK is integrated to handle secure payment transactions and offer various payment options to users.
-
-- Use of AJAX: AJAX enables background data exchange with the server without refreshing the web page. In this project, AJAX is used for dynamic content loading and data updates.
-
-## Installation
-
-1. Clone this project:
-
-   ```shell
-   git clone https://github.com/Username/project-name.git
-   
-Tabii ki! İşte İngilizce olarak Markdown formatında güncellenmiş bir README dosyası:
-
-markdown
-Copy code
 # Streaming Website Project
 
 This project is a streaming website developed using PHP, HTML, CSS, and JavaScript. Users can sign up on the site to preview content, watch trailers, and view content in full-screen mode. Additionally, the PayPal SDK is integrated to allow users to make payments.
